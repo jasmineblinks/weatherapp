@@ -80,3 +80,7 @@ font-weight: 500;
         align-items: center;
         text-align: left;
     }
+.humidity, .wind{
+    font-size: 28px;
+    margin-top: -6px;
+}
